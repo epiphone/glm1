@@ -86,4 +86,3 @@ unsplit(splitted, student$height > median(student$height))
 # 8
 
 student$heightLog <- log(student$height)
-
